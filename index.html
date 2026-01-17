@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UPSC Prelims Practice Portal</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>UPSC Prelims Exam Portal</h1>
+        <div id="timer" class="hidden">0:00</div>
+    </header>
+
+    <main class="container">
+        
+        <div id="dashboard">
+            <h2>Select a Subject</h2>
+            <div id="subject-selection" class="grid-container">
+                </div>
+
+            <h2>Or Select a Year</h2>
+            <div id="year-selection" class="grid-container">
+                </div>
+        </div>
+
+        <div id="quiz-interface" class="hidden">
+            <div class="quiz-layout">
+                
+                <div class="question-area">
+                    <div id="question-text">
+                        </div>
+                    
+                    <div id="options-container">
+                        </div>
+
+                    <div class="controls">
+                        <button class="btn-secondary" onclick="prevQuestion()">← Previous</button>
+                        <button class="btn-primary" onclick="saveAndNext()">Next →</button>
+                    </div>
+                </div>
+
+                <div class="sidebar">
+                    <h3>Question Palette</h3>
+                    <div id="question-palette">
+                        </div>
+                    
+                    <hr>
+                    
+                    <button id="end-test-btn" class="btn-danger" onclick="submitTest()">
+                        End Test & Submit
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <div id="result-screen" class="hidden">
+            <div class="result-header">
+                <h2>Test Summary</h2>
+                <div class="score-card">
+                    Your Score: <span id="res-score">0.00</span>
+                </div>
+                <button class="btn-primary" onclick="location.reload()">Take Another Test</button>
+            </div>
+
+            <h3>Detailed Analysis</h3>
+            <div id="detailed-analysis">
+                </div>
+        </div>
+
+    </main>
+
+    <script src="data.js"></script>
+    <script src="script.js"></script>
+
+</body>
+</html>
