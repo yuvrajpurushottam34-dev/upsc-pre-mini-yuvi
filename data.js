@@ -725,8 +725,8 @@ The Vital-Vidhvansak, the first monthly journal to have the untouchable people a
 Ans: A
 Explanation: Published in 1888, Vital-Vidhvansak (Destroyer of Brahmanical or Ceremonial Pollution) was the work of Gopal Baba Walangkar, a pioneer of the Dalit movement in Maharashtra.
 `
-        ,
-        "Polity" : {
+    },
+    "Polity" : {
     "2023": `
 Question 1
 In essence, what does "Due Process of Law" mean?
@@ -1991,11 +1991,10 @@ Ans: B
 Explanation: The Council of Ministers is collectively responsible to the Lok Sabha.
 `
 
-    }
+}
    
  
 };
 
 window.getRawData = () => rawContent;
-
 window.getAnswerKeys = () => {};
