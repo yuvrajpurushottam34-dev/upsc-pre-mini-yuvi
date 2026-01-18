@@ -186,7 +186,7 @@ const QuizApp = {
     },
 
     // 7. SUBMISSION & RESULTS
-    submitQuiz() {
+         submitQuiz() {
         if (!confirm("Are you sure you want to end the test and see results?")) return;
 
         clearInterval(this.state.interval);
@@ -205,13 +205,36 @@ const QuizApp = {
                 else marks -= 0.66;
             }
 
+            // Generate the HTML for the original options
+            let optionsHtml = '<div class="review-options">';
+            q.options.forEach(opt => {
+                let statusClass = "";
+                if (opt.key === q.correctKey) statusClass = "correct-opt";
+                if (opt.key === userAns && !isCorrect) statusClass = "wrong-opt";
+                
+                optionsHtml += `
+                    <div class="review-opt-item ${statusClass}">
+                        <strong>(${opt.key.toUpperCase()})</strong> ${opt.text}
+                    </div>`;
+            });
+            optionsHtml += '</div>';
+
             html += `
                 <div class="analysis-card ${isCorrect ? 'correct' : (userAns ? 'wrong' : 'skipped')}">
-                    <p><strong>Question ${i + 1}</strong></p>
-                    <p>${q.text}</p>
-                    <p><strong>Your Ans:</strong> ${userAns ? userAns.toUpperCase() : 'Not Answered'}</p>
-                    <p><strong>Correct Ans:</strong> ${q.correctKey ? q.correctKey.toUpperCase() : 'N/A'}</p>
-                    <div class="exp-box"><strong>Explanation:</strong> ${q.explanation}</div>
+                    <p class="q-header"><strong>Question ${i + 1}</strong></p>
+                    <p class="q-body">${q.text.replace(/\n/g, '<br>')}</p>
+                    
+                    ${optionsHtml}
+                    
+                    <div class="result-summary">
+                        <p><strong>Your Selection:</strong> ${userAns ? userAns.toUpperCase() : '<span class="text-muted">Skipped</span>'}</p>
+                        <p><strong>Correct Answer:</strong> <span class="text-success">${q.correctKey ? q.correctKey.toUpperCase() : 'N/A'}</span></p>
+                    </div>
+                    
+                    <div class="exp-box">
+                        <strong>Explanation:</strong><br>
+                        ${q.explanation}
+                    </div>
                 </div>
             `;
         });
