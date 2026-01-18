@@ -351,3 +351,40 @@ header {
     color: white;
     border-color: #2980b9;
 }
+/* Styling for options in the review section */
+.review-options {
+    margin: 15px 0;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.review-opt-item {
+    padding: 8px 12px;
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 0.95em;
+}
+
+/* Highlight the correct option in green */
+.correct-opt {
+    border-color: #2ecc71;
+    background-color: #e8f8f0;
+    font-weight: bold;
+}
+
+/* Highlight the user's wrong option in red */
+.wrong-opt {
+    border-color: #e74c3c;
+    background-color: #fdf2f2;
+}
+
+.result-summary {
+    margin: 15px 0;
+    padding-top: 10px;
+    border-top: 1px dashed #ccc;
+}
+
+.text-success { color: #27ae60; font-weight: bold; }
+.text-muted { color: #7f8c8d; font-style: italic; }
