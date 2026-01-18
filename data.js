@@ -725,10 +725,1277 @@ The Vital-Vidhvansak, the first monthly journal to have the untouchable people a
 Ans: A
 Explanation: Published in 1888, Vital-Vidhvansak (Destroyer of Brahmanical or Ceremonial Pollution) was the work of Gopal Baba Walangkar, a pioneer of the Dalit movement in Maharashtra.
 `
+        ,
+        "Polity" : {
+    "2023": `
+Question 1
+In essence, what does "Due Process of Law" mean?
+(a) Principle of natural justice
+(b) Procedure established by law
+(c) Fair application of law
+(d) Equality before law
+
+Ans: C
+Explanation: Due Process of Law emphasizes fairness, reasonableness and justice in the application of laws, not merely following procedure.
+
+Question 2
+In India, which one of the following Constitutional Amendments was widely believed to be enacted to overcome judicial interpretations of the Fundamental Rights?
+(a) 1st Amendment
+(b) 42nd Amendment
+(c) 44th Amendment
+(d) 86th Amendment
+
+Ans: A
+Explanation: The 1st Constitutional Amendment (1951) was enacted to nullify adverse Supreme Court judgments related to land reforms and Fundamental Rights.
+
+Question 3
+Consider the following organizations/bodies in India:
+1. National Commission for Backward Classes
+2. National Human Rights Commission
+3. National Law Commission
+4. National Consumer Disputes Redressal Commission
+How many of the above are constitutional bodies?
+(a) Only one
+(b) Only two
+(c) Only three
+(d) All four
+
+Ans: A
+Explanation: Only the National Commission for Backward Classes is a constitutional body; the others are statutory bodies.
+
+Question 4
+Consider the following statements regarding the election of the President of India:
+1. If the election is declared void, all acts done by the President become invalid.
+2. The election cannot be postponed even if some State Legislative Assemblies are dissolved.
+3. The Constitution prescribes a time-limit for the President to give assent to a Bill.
+Which of the statements given above are correct?
+(a) 1 and 2 only
+(b) 2 only
+(c) 2 and 3 only
+(d) None
+
+Ans: D
+Explanation: Acts remain valid, election cannot be postponed, and no time-limit is prescribed for Presidential assent.
+
+Question 5
+With reference to Scheduled Areas in India, consider the following statements:
+1. They are notified by the President of India.
+2. The largest administrative unit is the district and the lowest is a group of villages.
+3. The Chief Ministers submit annual reports to the Union Home Ministry.
+Which of the statements given above are correct?
+(a) 1 and 2 only
+(b) 2 and 3 only
+(c) 1 and 3 only
+(d) All three
+
+Ans: A
+Explanation: Statements 1 and 2 are correct; reports are submitted to the President, not the Union Home Ministry.
+
+Question 6
+Consider the following statements:
+Statement-I: Reservation in promotion in government services is limited by Article 335.
+Statement-II: Article 335 defines the expression "efficiency of administration".
+Which one of the following is correct?
+(a) Both Statement-I and Statement-II are correct and Statement-II explains Statement-I
+(b) Both Statement-I and Statement-II are correct but Statement-II does not explain Statement-I
+(c) Statement-I is correct but Statement-II is incorrect
+(d) Statement-I is incorrect but Statement-II is correct
+
+Ans: C
+Explanation: Article 335 limits reservation but does not define "efficiency of administration".
+
+Question 7
+With reference to Home Guards in India, consider the following statements:
+1. They are raised under a Central Act.
+2. They act as an auxiliary force to the police.
+3. Border Wing Home Guards exist in some States.
+Which of the statements given above are correct?
+(a) 1 only
+(b) 2 and 3 only
+(c) 1 and 3 only
+(d) All three
+
+Ans: B
+Explanation: Home Guards are raised under State laws; they assist police and have Border Wings in some States.
+`
+  ,
+    "2022": `
+Question 1
+If a particular area is brought under the Fifth Schedule of the Constitution of India, which one of the following statements best reflects the consequence?
+(a) This would prevent transfer of tribal land to non-tribals
+(b) This would create a local self-governing body
+(c) This would convert the area into a Union Territory
+(d) The State would be declared a Special Category State
+
+Ans: A
+Explanation: The Fifth Schedule provides special safeguards to protect tribal land and prevent its alienation to non-tribals.
+
+Question 2
+Under the Constitution of India, concentration of wealth violates which of the following?
+(a) Right to Equality
+(b) Directive Principles of State Policy
+(c) Right to Freedom
+(d) Concept of Welfare
+
+Ans: B
+Explanation: Article 39 of the Directive Principles directs the State to prevent concentration of wealth and means of production.
+
+Question 3
+With reference to the Attorney-General of India, consider the following statements:
+1. He is appointed by the President of India.
+2. He holds office during the pleasure of the President.
+3. He has the right to speak and take part in the proceedings of both Houses of Parliament.
+Which of the statements given above are correct?
+(a) 1 and 2 only
+(b) 2 and 3 only
+(c) 1 and 3 only
+(d) 1, 2 and 3
+
+Ans: D
+Explanation: The Attorney-General is appointed by the President, holds office during his pleasure, and may participate in parliamentary proceedings without voting rights.
+`
+ , "2022": `
+Question 1
+If a particular area is brought under the Fifth Schedule of the Constitution of India, which one of the following statements best reflects the consequence of it?
+(a) This would prevent the transfer of land of tribal people to non-tribal people.
+(b) This would create a local self-governing body in that area.
+(c) This would convert that area into a Union Territory.
+(d) The State having such areas would be declared a Special Category State.
+
+Ans: A
+Explanation: The Fifth Schedule provides safeguards against alienation of tribal land.
+
+Question 2
+With reference to India, consider the following statements:
+1. When a prisoner makes out a sufficient case, parole cannot be denied to such prisoner because it becomes a matter of his/her right.
+2. State Governments have their own Prisoners Release on Parole Rules.
+Which of the statements given above is/are correct?
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+
+Ans: B
+Explanation: Parole is not a right; States frame their own parole rules.
+
+Question 3
+At the national level, which ministry is the nodal agency to ensure effective implementation of the Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006?
+(a) Ministry of Environment, Forest and Climate Change
+(b) Ministry of Panchayati Raj
+(c) Ministry of Rural Development
+(d) Ministry of Tribal Affairs
+
+Ans: D
+Explanation: Ministry of Tribal Affairs is the nodal ministry.
+
+Question 4
+A legislation that confers on the executive or administrative authority an unguided and uncontrolled discretionary power in the matter of the application of law violates which one of the following Articles of the Constitution of India?
+(a) Article 14
+(b) Article 28
+(c) Article 32
+(d) Article 44
+
+Ans: A
+Explanation: Unguided discretion violates equality before law under Article 14.
+
+Question 5
+Which one of the following in Indian polity is an essential feature that indicates that it is federal in character?
+(a) The independence of judiciary is safeguarded.
+(b) The Union Legislature has elected representatives from constituent units.
+(c) The Union Cabinet can have elected representatives from regional parties.
+(d) The Fundamental Rights are enforceable by Courts of Law.
+
+Ans: A
+Explanation: Independent judiciary is a core feature of federalism.
+
+Question 6
+Which one of the following best defines the term ‘State’?
+(a) A community of persons permanently occupying a definite territory independent of external control and possessing an organized government
+(b) A politically organized people of a definite territory and possessing an authority to govern them, maintain law and order, protect their natural rights and safeguard their means of sustenance
+(c) A number of persons who have been living in a definite territory for a very long time with their own culture, tradition and government
+(d) A society permanently living in a definite territory with a central authority, an executive responsible to the central authority and an independent judiciary
+
+Ans: A
+Explanation: This is the classical definition of the State.
+
+Question 7
+With reference to the Indian judiciary, consider the following statements:
+1. Any retired judge of the Supreme Court of India can be called back to sit and act as a Supreme Court judge by the Chief Justice of India with the prior permission of the President of India.
+2. A High Court in India has the power to review its own judgement as the Supreme Court does.
+Which of the statements given above is/are correct?
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+
+Ans: C
+Explanation: Both provisions are constitutionally valid.
+
+Question 8
+With reference to India, consider the following statements:
+1. There is only one citizenship and one domicile.
+2. A citizen by birth only can become the Head of State.
+3. A foreigner once granted citizenship cannot be deprived of it under any circumstances.
+Which of the statements given above is/are correct?
+(a) 1 only
+(b) 2 only
+(c) 1 and 3
+(d) 2 and 3
+
+Ans: A
+Explanation: India has single citizenship and single domicile.
+
+Question 9
+Which one of the following factors constitutes the best safeguard of liberty in a liberal democracy?
+(a) A committed judiciary
+(b) Centralization of powers
+(c) Elected government
+(d) Separation of powers
+
+Ans: D
+Explanation: Separation of powers prevents concentration of authority.
+
+Question 10
+Consider the following statements in respect of election to the President of India:
+1. The members nominated to either House of the Parliament or the Legislative Assemblies of States are also eligible to be included in the Electoral College.
+2. Higher the number of elective Assembly seats, higher is the value of vote of each MLA of that State.
+3. The value of vote of each MLA of Madhya Pradesh is greater than that of Kerala.
+4. The value of vote of each MLA of Puducherry is higher than that of Arunachal Pradesh because the ratio of total population to total number of elective seats in Puducherry is greater as compared to Arunachal Pradesh.
+How many of the above statements are correct?
+(a) Only one
+(b) Only two
+(c) Only three
+(d) All four
+
+Ans: A
+Explanation: Only statement 4 is correct.
+`
+,
+ "2021": `
+Question 1
+Under the Indian Constitution, concentration of wealth violates
+(a) the Right to Equality
+(b) the Directive Principles of State Policy
+(c) the Right to Freedom
+(d) the Concept of Welfare
+
+Ans: B
+Explanation: Article 39(b) and (c) of DPSP seek to prevent concentration of wealth.
+
+Question 2
+What is the position of the Right to Property in India?
+(a) Legal right available to citizens only
+(b) Legal right available to any person
+(c) Fundamental Right available to citizens only
+(d) Neither Fundamental Right nor legal right
+
+Ans: B
+Explanation: Article 300A makes it a legal right available to any person.
+
+Question 3
+What was the exact constitutional status of India on 26th January, 1950?
+(a) A Democratic Republic
+(b) A Sovereign Democratic Republic
+(c) A Sovereign Secular Democratic Republic
+(d) A Sovereign Socialist Secular Democratic Republic
+
+Ans: B
+Explanation: “Secular” and “Socialist” were added by the 42nd Amendment (1976).
+
+Question 4
+Constitutional government means
+(a) a representative government of a nation with federal structure
+(b) a government whose Head enjoys nominal powers
+(c) a government whose Head enjoys real powers
+(d) a government limited by the terms of the Constitution
+
+Ans: D
+Explanation: Constitutionalism means limitation of government power by law.
+
+Question 5
+With reference to India, the terms ‘Halbi, Ho and Kui’ pertain to
+(a) dance forms of Northwest India
+(b) musical instruments
+(c) pre-historic cave paintings
+(d) tribal languages
+
+Ans: D
+Explanation: These are tribal languages spoken in central and eastern India.
+
+Question 6
+Consider the following statements in respect of Bharat Ratna and Padma Awards:
+1. Bharat Ratna and Padma Awards are titles under Article 18(1).
+2. Padma Awards, instituted in 1954, were suspended only once.
+3. The number of Bharat Ratna awards is restricted to a maximum of five in a year.
+Which of the above statements are not correct?
+(a) 1 and 2 only
+(b) 2 and 3 only
+(c) 1 and 3 only
+(d) 1, 2 and 3
+
+Ans: D
+Explanation: They are not titles, Padma Awards were suspended twice, and Bharat Ratna has no constitutional cap.
+
+Question 7
+Which of the following are envisaged by the Right against Exploitation?
+1. Prohibition of traffic in human beings and forced labour
+2. Abolition of untouchability
+3. Protection of interests of minorities
+4. Prohibition of employment of children in factories and mines
+Select the correct answer:
+(a) 1, 2 and 4 only
+(b) 2, 3 and 4 only
+(c) 1 and 4 only
+(d) 1, 2, 3 and 4
+
+Ans: C
+Explanation: Articles 23 and 24 cover forced labour and child labour.
+
+Question 8
+Which one of the following best explains the principle underlying the Cabinet form of Government?
+(a) Minimizing criticism against the Government
+(b) Speeding up government activity
+(c) Collective responsibility of the Government to the people
+(d) Strengthening authority of the Head of Government
+
+Ans: C
+Explanation: Collective responsibility to the legislature is the core principle.
+
+Question 9
+Which one of the following is not a feature of Indian federalism?
+(a) Independent judiciary
+(b) Clear division of powers
+(c) Unequal representation in Rajya Sabha
+(d) Agreement among federating units
+
+Ans: D
+Explanation: Indian federalism is not formed by agreement of states.
+
+Question 10
+Which of the following statements is/are true of Fundamental Duties?
+1. A legislative process has been provided to enforce them.
+2. They are correlative to legal duties.
+Select the correct answer:
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+
+Ans: D
+Explanation: Fundamental Duties are non-justiciable and moral obligations.
+`
+,
+"2020": `
+Question 1
+With reference to the Constitution of India, consider the following statements:
+1. The Constitution of India defines its ‘Basic Structure’ in terms of federalism, secularism, fundamental rights and democracy.
+2. The Constitution of India provides for ‘Judicial Review’ to safeguard the citizens’ liberties and to preserve the ideals on which the Constitution is based.
+Which of the statements given above is/are correct?
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+
+Ans: B
+Explanation: Basic Structure is a judicial doctrine, not defined in the Constitution. Judicial Review is constitutionally provided.
+
+Question 2
+With reference to the provisions contained in Part IV of the Constitution of India, which of the following statements is/are correct?
+1. They shall be enforceable by courts.
+2. The principles laid down therein are to influence the making of laws by the State.
+Select the correct answer:
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+
+Ans: B
+Explanation: DPSPs are non-justiciable but guide law-making.
+
+Question 3
+In the context of India, which one of the following is the correct relationship between Rights and Duties?
+(a) Rights are correlative with Duties.
+(b) Rights are personal and independent of society and Duties.
+(c) Rights alone are important for personality development.
+(d) Duties alone are important for State stability.
+
+Ans: A
+Explanation: Rights and Duties are mutually reinforcing.
+
+Question 4
+The Preamble to the Constitution of India is
+(a) a part of the Constitution but has no legal effect
+(b) a part of the Constitution and has legal effect
+(c) not a part of the Constitution but has legal effect
+(d) not a part of the Constitution and has no legal effect
+
+Ans: B
+Explanation: As per Kesavananda Bharati case, Preamble is part of the Constitution.
+
+Question 5
+Which one of the following factors constitutes the best safeguard of liberty in a democracy?
+(a) Written Constitution
+(b) Independent judiciary
+(c) Separation of powers
+(d) Universal adult franchise
+
+Ans: C
+Explanation: Separation of powers prevents concentration of authority.
+
+Question 6
+Which one of the following best defines the term ‘State’?
+(a) A community permanently occupying a definite territory, independent of external control and possessing an organized government
+(b) A culturally homogeneous population with a permanent government
+(c) A society governed by traditions and customs
+(d) A federation with a written Constitution
+
+Ans: A
+Explanation: This is the classical definition of a State.
+
+Question 7
+With reference to India, consider the following statements:
+1. Judicial custody means custody of an accused with the police.
+2. During judicial custody, police cannot interrogate the accused without court permission.
+Which of the statements given above is/are correct?
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+
+Ans: B
+Explanation: Judicial custody implies jail custody under court authority.
+
+Question 8
+Which Article of the Constitution of India safeguards one’s right to marry the person of one’s choice?
+(a) Article 19
+(b) Article 21
+(c) Article 25
+(d) Article 29
+
+Ans: B
+Explanation: Right to life and personal liberty includes choice of partner.
+
+Question 9
+With reference to writs issued by courts in India, consider the following statements:
+1. Mandamus will not lie against a private body unless it performs a public duty.
+2. Any public-spirited person can file for Quo Warranto.
+Which of the statements given above is/are correct?
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+
+Ans: C
+Explanation: Both principles are well-established in writ jurisdiction.
+
+Question 10
+Which one of the following correctly explains the concept of ‘constitutional morality’?
+(a) Strict adherence to constitutional text only
+(b) Judicial supremacy over legislature
+(c) Respect for constitutional values, principles and spirit
+(d) Rule by elected representatives alone
+
+Ans: C
+Explanation: Constitutional morality implies adherence to values like liberty, equality and fraternity.
+`
+,
+"2019": `
+Question 1
+Consider the following statements:
+1. The 44th Amendment to the Constitution of India placed the election of the Prime Minister beyond judicial review.
+2. The Supreme Court of India struck down the 99th Constitutional Amendment.
+Which of the statements given above is/are correct?
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+
+Ans: B
+Explanation: The 99th Constitutional Amendment (NJAC) was struck down. The 44th Amendment did not place PM election beyond judicial review.
+
+Question 2
+Consider the following statements regarding impeachment of a Judge of the Supreme Court of India:
+1. The Speaker of the Lok Sabha or the Chairman of the Rajya Sabha cannot reject the motion.
+2. The Constitution of India defines the term “proved misbehaviour”.
+3. The details of the process are given in the Judges (Inquiry) Act, 1968.
+4. A special majority is required in both the Houses of the Parliament.
+Which of the statements given above are correct?
+(a) 1 and 2
+(b) 3 only
+(c) 3 and 4 only
+(d) 1, 3 and 4
+
+Ans: C
+Explanation: The Constitution does not define “proved misbehaviour”; procedure is under the Judges (Inquiry) Act and special majority is required.
+
+Question 3
+The Ninth Schedule to the Constitution of India was introduced during the prime ministership of
+(a) Jawaharlal Nehru
+(b) Lal Bahadur Shastri
+(c) Indira Gandhi
+(d) Morarji Desai
+
+Ans: A
+Explanation: The Ninth Schedule was added by the 1st Constitutional Amendment Act, 1951.
+
+Question 4
+Consider the following statements regarding the “Office of Profit”:
+1. The Parliament (Prevention of Disqualification) Act, 1959 exempts certain offices from disqualification.
+2. The Constitution of India defines the term “Office of Profit”.
+Which of the statements given above is/are correct?
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+
+Ans: A
+Explanation: Parliament has enacted laws to exempt offices; the Constitution does not define “Office of Profit”.
+
+Question 5
+Under which one of the following Schedules of the Constitution of India can the transfer of tribal land for mining be declared null and void?
+(a) Third Schedule
+(b) Fifth Schedule
+(c) Ninth Schedule
+(d) Twelfth Schedule
+
+Ans: B
+Explanation: The Fifth Schedule governs Scheduled Areas and provides protection over tribal land.
+
+Question 6
+With reference to “Particularly Vulnerable Tribal Groups (PVTGs)” in India, consider the following statements:
+1. PVTGs reside in 18 States and one Union Territory.
+2. A stagnant or declining population is one of the criteria for identification.
+3. There are 95 PVTGs in India.
+4. Irular and Konda Reddi tribes are included in the list of PVTGs.
+Which of the statements given above are correct?
+(a) 1, 2 and 3
+(b) 2, 3 and 4
+(c) 1, 2 and 4
+(d) 1, 3 and 4
+
+Ans: C
+Explanation: There are 75 PVTGs, not 95; other statements are correct.
+
+Question 7
+With reference to Article 142 of the Constitution of India, which one of the following statements is correct?
+(a) It empowers the Supreme Court to issue directions to the Election Commission.
+(b) It empowers the Supreme Court to pass any order necessary to do complete justice.
+(c) It allows Parliament to amend judicial orders.
+(d) It restricts the powers of High Courts.
+
+Ans: B
+Explanation: Article 142 enables the Supreme Court to do complete justice.
+
+Question 8
+With reference to a Legislative Assembly of a State, consider the following statements:
+1. The Governor addresses the Legislative Assembly at the commencement of the first session of each year.
+2. When a State Legislative Assembly does not have a rule on a particular matter, the Lok Sabha rules apply.
+Which of the statements given above are correct?
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+
+Ans: C
+Explanation: Both practices are constitutionally and procedurally valid.
+
+Question 9
+Which one of the following Articles of the Constitution of India safeguards one’s right to marry a person of one’s choice?
+(a) Article 19
+(b) Article 21
+(c) Article 25
+(d) Article 29
+
+Ans: B
+Explanation: Choice of partner is part of personal liberty under Article 21.
+`
+,
+"2018": `
+Question 1
+Consider the following statements:
+1. In the first Lok Sabha, the single largest party in the opposition was the Swatantra Party.
+2. In the Lok Sabha, a “Leader of the Opposition” was recognised for the first time in 1969.
+3. In the Lok Sabha, if a party does not have a minimum of 75 members, its leader cannot be recognised as the Leader of the Opposition.
+Which of the statements given above is/are correct?
+(a) 1 and 3 only
+(b) 2 only
+(c) 2 and 3 only
+(d) 1, 2 and 3
+
+Ans: B
+Explanation: Leader of Opposition was formally recognised in 1969. Swatantra Party was not in the first Lok Sabha, and there is no 75-member rule.
+
+Question 2
+Consider the following statements:
+1. The Parliament of India can place a particular law in the Ninth Schedule of the Constitution of India.
+2. The validity of a law placed in the Ninth Schedule cannot be examined by any court.
+Which of the statements given above is/are correct?
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+
+Ans: A
+Explanation: Courts can examine Ninth Schedule laws on the touchstone of the Basic Structure doctrine.
+
+Question 3
+What is/are the consequence/consequences of a country becoming a member of the Nuclear Suppliers Group (NSG)?
+1. It will have access to the latest and most efficient nuclear technologies.
+2. It automatically becomes a member of the Nuclear Non-Proliferation Treaty (NPT).
+Select the correct answer using the code given below:
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+
+Ans: A
+Explanation: NSG membership does not imply NPT membership.
+
+Question 4
+Consider the following statements:
+1. Aadhaar card can be used as a proof of citizenship or domicile.
+2. Once issued, Aadhaar number cannot be deactivated or omitted by the issuing authority.
+Which of the statements given above is/are correct?
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+
+Ans: D
+Explanation: Aadhaar is not proof of citizenship or domicile and can be deactivated.
+
+Question 5
+‘Rule of Law Index’ is released by which one of the following?
+(a) Amnesty International
+(b) International Court of Justice
+(c) Office of the UN High Commissioner for Human Rights
+(d) World Justice Project
+
+Ans: D
+Explanation: The Rule of Law Index is published by the World Justice Project.
+
+Question 6
+With reference to the Parliament of India, which one of the following Parliamentary Committees scrutinizes and reports whether the delegated legislation is within the powers conferred by the Constitution or the parent Act?
+(a) Committee on Government Assurances
+(b) Committee on Subordinate Legislation
+(c) Rules Committee
+(d) Business Advisory Committee
+
+Ans: B
+Explanation: The Committee on Subordinate Legislation examines delegated legislation.
+
+Question 7
+Consider the following statements:
+1. As per the Right to Education Act, the minimum qualification for appointment as a teacher is laid down by the State Council of Teacher Education.
+2. For teaching primary classes, passing the Teacher Eligibility Test (TET) conducted by the appropriate Government is mandatory.
+3. More than 90% of teacher education institutions in India are under State Governments.
+Which of the statements given above is/are correct?
+(a) 1 and 2 only
+(b) 2 only
+(c) 1 and 3 only
+(d) 3 only
+
+Ans: B
+Explanation: Qualifications are laid down by NCTE; most institutions are private.
+
+Question 8
+Consider the following statements:
+1. The Food Safety and Standards Act, 2006 replaced the Prevention of Food Adulteration Act, 1954.
+2. The Food Safety and Standards Authority of India (FSSAI) functions under the Ministry of Health and Family Welfare.
+Which of the statements given above is/are correct?
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+
+Ans: C
+Explanation: FSSAI is an autonomous body under the Ministry of Health.
+
+Question 9
+Regarding Money Bill, which one of the following statements is NOT correct?
+(a) A Money Bill contains provisions relating to taxation.
+(b) A Money Bill provides for the custody of the Consolidated Fund of India.
+(c) A Money Bill concerns appropriation of money out of the Contingency Fund of India.
+(d) A Money Bill deals with regulation of borrowing of money by the Government of India.
+
+Ans: C
+Explanation: Appropriation from the Contingency Fund is not a Money Bill matter.
+
+Question 10
+With reference to the election of the President of India, consider the following statements:
+1. The value of vote of each MLA varies from State to State.
+2. The value of vote of each Member of Parliament is the same irrespective of the House.
+Which of the statements given above is/are correct?
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+
+Ans: C
+Explanation: MLA vote value varies; MPs of both Houses have equal vote value.
+`
+,
+"2017": `
+Question 1
+For election to the Lok Sabha, a nomination paper can be filed by
+(a) any person who is a citizen of India
+(b) a resident of the constituency from which the election is to be contested
+(c) any citizen of India whose name appears in the electoral roll of any constituency
+(d) any citizen of India of at least 25 years of age
+
+Ans: C
+Explanation: A candidate must be a registered voter in any constituency, not necessarily the same one.
+
+Question 2
+In the context of Indian history, the principle of ‘Dyarchy (Diarchy)’ refers to
+(a) division of the central legislature into two houses
+(b) introduction of double government at the Centre and the States
+(c) having two sets of rulers, one in London and another in Delhi
+(d) division of subjects delegated to provinces into two categories
+
+Ans: D
+Explanation: Dyarchy divided provincial subjects into ‘reserved’ and ‘transferred’ subjects.
+
+Question 3
+In the election of the President of India, consider the following statements:
+1. The value of the vote of each MLA varies from State to State.
+2. The value of the vote of each MP of Lok Sabha is the same as that of a Rajya Sabha MP.
+Which of the statements given above is/are correct?
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+
+Ans: C
+Explanation: MLA vote value varies by State; all MPs have equal vote value.
+
+Question 4
+Right to vote and to be elected in India is a
+(a) Fundamental Right
+(b) Natural Right
+(c) Constitutional Right
+(d) Legal Right
+
+Ans: C
+Explanation: Voting and contesting elections are constitutional/statutory rights, not Fundamental Rights.
+
+Question 5
+In India, Judicial Review implies
+(a) review of laws by the Parliament
+(b) review of laws by the Executive
+(c) power of judiciary to test constitutionality of laws and executive actions
+(d) power of judiciary to review its own judgments only
+
+Ans: C
+Explanation: Judicial Review ensures supremacy of the Constitution.
+
+Question 6
+Which of the following are not necessarily the consequences of the proclamation of President’s Rule in a State?
+1. Dissolution of the State Legislative Assembly
+2. Removal of the Council of Ministers
+3. Dissolution of local bodies
+Select the correct answer using the code given below:
+(a) 1 and 2 only
+(b) 1 and 3 only
+(c) 2 and 3 only
+(d) 1, 2 and 3
+
+Ans: B
+Explanation: Assembly may be kept under suspended animation; local bodies are not dissolved.
+
+Question 7
+Which of the following are envisaged by the Right against Exploitation in the Constitution of India?
+1. Prohibition of traffic in human beings and forced labour
+2. Abolition of untouchability
+3. Protection of the interests of minorities
+4. Prohibition of employment of children in factories and mines
+Select the correct answer:
+(a) 1, 2 and 4 only
+(b) 2, 3 and 4 only
+(c) 1 and 4 only
+(d) 1, 2, 3 and 4
+
+Ans: C
+Explanation: Articles 23 and 24 deal with forced labour and child labour.
+
+Question 8
+Out of the following statements, which one best brings out the principle underlying the Cabinet form of Government?
+(a) Minimizing criticism against the Government
+(b) Speeding up the Government activity
+(c) Ensuring collective responsibility to the people through Parliament
+(d) Strengthening the hands of the Head of Government
+
+Ans: C
+Explanation: Collective responsibility to the legislature is the core principle.
+
+Question 9
+Which one of the following is NOT a feature of Indian federalism?
+(a) Independent judiciary
+(b) Clear division of powers
+(c) Unequal representation of States in the Rajya Sabha
+(d) Result of an agreement among the States
+
+Ans: D
+Explanation: Indian federation was not formed by agreement of States.
+
+Question 10
+Which of the following statements is/are true of the Fundamental Duties of Indian citizens?
+1. A legislative process has been provided to enforce them.
+2. They are correlative to legal duties.
+Select the correct answer:
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+
+Ans: D
+Explanation: Fundamental Duties are non-justiciable and moral obligations.
+`
+,
+"2016": `
+Question 1
+With reference to the ‘Goods and Services Tax (GST)’, consider the following statements:
+1. It is a destination-based tax.
+2. It subsumes excise duty, service tax and value-added tax.
+3. It is levied on both goods and services.
+Which of the statements given above are correct?
+(a) 1 only
+(b) 1 and 2 only
+(c) 1 and 3 only
+(d) 1, 2 and 3
+
+Ans: D
+Explanation: GST is a destination-based comprehensive indirect tax on supply of goods and services, subsuming multiple indirect taxes.
+
+Question 2
+Which one of the following is the correct constitutional position of India?
+(a) A Sovereign, Socialist, Secular, Democratic Republic
+(b) A Sovereign, Secular, Democratic Republic
+(c) A Sovereign, Socialist Republic
+(d) A Democratic Republic
+
+Ans: A
+Explanation: The Preamble describes India as a Sovereign, Socialist, Secular, Democratic Republic.
+
+Question 3
+With reference to the powers of the Speaker of the Lok Sabha, consider the following statements:
+1. He decides whether a Bill is a Money Bill or not.
+2. His decision in this regard is final and cannot be challenged in any court.
+Which of the statements given above is/are correct?
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+
+Ans: A
+Explanation: The Speaker certifies a Money Bill, but the decision is subject to judicial review.
+
+Question 4
+Which one of the following is the correct sequence of constitutional offices in the order of precedence?
+(a) Prime Minister – Chief Justice of India – Speaker of Lok Sabha
+(b) Speaker of Lok Sabha – Prime Minister – Chief Justice of India
+(c) Prime Minister – Speaker of Lok Sabha – Chief Justice of India
+(d) Chief Justice of India – Prime Minister – Speaker of Lok Sabha
+
+Ans: C
+Explanation: Order of precedence places the Prime Minister first, followed by the Speaker of Lok Sabha and then the Chief Justice of India.
+
+Question 5
+Which one of the following best describes the concept of ‘Rule of Law’?
+(a) Supremacy of the Constitution
+(b) Equality before law and absence of arbitrary power
+(c) Independence of judiciary
+(d) Separation of powers
+
+Ans: B
+Explanation: Rule of Law implies equality before law and limitation on arbitrary authority.
+
+Question 6
+With reference to the Fundamental Rights in the Constitution of India, consider the following statements:
+1. They are enforceable by courts of law.
+2. They can be suspended during the operation of a National Emergency.
+3. They are available only to citizens of India.
+Which of the statements given above are correct?
+(a) 1 only
+(b) 1 and 2 only
+(c) 1 and 3 only
+(d) 1, 2 and 3
+
+Ans: B
+Explanation: Fundamental Rights are enforceable and some can be suspended; some apply to non-citizens as well.
+
+Question 7
+Which one of the following provisions of the Constitution of India deals with the Right to Education?
+(a) Article 19
+(b) Article 21
+(c) Article 21A
+(d) Article 45
+
+Ans: C
+Explanation: Article 21A provides free and compulsory education for children aged 6–14 years.
+
+Question 8
+With reference to the Rajya Sabha, consider the following statements:
+1. It is a permanent House.
+2. One-third of its members retire every two years.
+3. The President nominates twelve members from literature, science, art and social service.
+Which of the statements given above are correct?
+(a) 1 and 2 only
+(b) 2 and 3 only
+(c) 1 and 3 only
+(d) 1, 2 and 3
+
+Ans: D
+Explanation: Rajya Sabha is permanent with staggered retirement and nominated members.
+
+Question 9
+Which one of the following is a feature of a federal system?
+(a) Single Constitution
+(b) Division of powers between different levels of government
+(c) Unitary judiciary
+(d) Unicameral legislature
+
+Ans: B
+Explanation: Federalism is characterized by constitutional division of powers.
+
+Question 10
+With reference to the Comptroller and Auditor General of India (CAG), consider the following statements:
+1. He is appointed by the President of India.
+2. He audits all expenditures from the Consolidated Fund of India.
+3. He is responsible to the Parliament.
+Which of the statements given above are correct?
+(a) 1 and 2 only
+(b) 1 and 3 only
+(c) 2 and 3 only
+(d) 1, 2 and 3
+
+Ans: D
+Explanation: CAG audits public expenditure and reports to Parliament.
+`
+,
+"2015": `
+Question 1
+With reference to the President of India, consider the following statements:
+1. The President can be removed from office by impeachment for violation of the Constitution.
+2. The impeachment process can be initiated in either House of the Parliament.
+Which of the statements given above is/are correct?
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+
+Ans: C
+Explanation: The President can be impeached for violation of the Constitution, and the process may start in either House.
+
+Question 2
+Which one of the following best describes the term ‘Secular State’?
+(a) A State having no religion of its own
+(b) A State which promotes all religions equally
+(c) A State which discourages religious practices
+(d) A State governed by religious principles
+
+Ans: A
+Explanation: Indian secularism means the State has no official religion and treats all religions equally.
+
+Question 3
+With reference to the Constitution of India, the term ‘Republic’ implies
+(a) Equality before law
+(b) Absence of monarchy
+(c) Universal adult franchise
+(d) Supremacy of Parliament
+
+Ans: B
+Explanation: Republic signifies that the Head of the State is elected, not hereditary.
+
+Question 4
+Which one of the following Fundamental Rights is available only to citizens of India?
+(a) Right to Equality
+(b) Right against Exploitation
+(c) Right to Freedom
+(d) Right to Freedom of Religion
+
+Ans: C
+Explanation: Rights under Article 19 (Right to Freedom) are available only to citizens.
+
+Question 5
+With reference to the Directive Principles of State Policy, consider the following statements:
+1. They are enforceable by courts.
+2. They aim at establishing a welfare State.
+Which of the statements given above is/are correct?
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+
+Ans: B
+Explanation: DPSPs are non-justiciable but aim to promote social and economic welfare.
+
+Question 6
+Which one of the following is NOT a feature of the Indian Constitution?
+(a) Federal system
+(b) Parliamentary form of government
+(c) Presidential form of government
+(d) Independent judiciary
+
+Ans: C
+Explanation: India follows a parliamentary, not presidential, system.
+
+Question 7
+With reference to the Rajya Sabha, consider the following statements:
+1. It is a permanent House.
+2. It can be dissolved by the President of India.
+Which of the statements given above is/are correct?
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+
+Ans: A
+Explanation: Rajya Sabha is a permanent body and is not subject to dissolution.
+
+Question 8
+Which of the following correctly represents the hierarchy of authority in the parliamentary system?
+(a) President → Prime Minister → Council of Ministers
+(b) Prime Minister → Council of Ministers → President
+(c) Council of Ministers → Prime Minister → President
+(d) Prime Minister → President → Council of Ministers
+
+Ans: B
+Explanation: Real executive power lies with the Prime Minister and Council of Ministers.
+
+Question 9
+With reference to the Fundamental Duties, consider the following statements:
+1. They are enforceable by courts.
+2. They were added to the Constitution by the 42nd Amendment Act.
+Which of the statements given above is/are correct?
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+
+Ans: B
+Explanation: Fundamental Duties were added by the 42nd Amendment and are non-justiciable.
+
+Question 10
+Which one of the following best explains the concept of ‘Collective Responsibility’?
+(a) Each minister is individually responsible to the President
+(b) The Council of Ministers is responsible to the Lok Sabha
+(c) The Council of Ministers is responsible to the Judiciary
+(d) Ministers are responsible to the Rajya Sabha
+
+Ans: B
+Explanation: Collective responsibility to the Lok Sabha is the essence of parliamentary government.
+`
+,
+"2014": `
+Question 1
+Which one of the following is the correct description of ‘Republic’ as used in the Constitution of India?
+(a) A State in which power is inherited
+(b) A State in which the Head of the State is elected
+(c) A State in which the Head of the State is appointed by the Legislature
+(d) A State in which power is exercised directly by the people
+
+Ans: B
+Explanation: Republic implies that the Head of the State is elected and not hereditary.
+
+Question 2
+Which of the following Fundamental Rights is available only to citizens of India?
+(a) Right to Equality
+(b) Right against Exploitation
+(c) Right to Freedom
+(d) Right to Constitutional Remedies
+
+Ans: C
+Explanation: Rights under Article 19 (Right to Freedom) are available only to citizens.
+
+Question 3
+With reference to the Directive Principles of State Policy in the Constitution of India, which one of the following statements is correct?
+(a) They are enforceable by courts
+(b) They are enforceable by Parliament
+(c) They are not enforceable by any court
+(d) They override Fundamental Rights
+
+Ans: C
+Explanation: DPSPs are non-justiciable but fundamental to governance.
+
+Question 4
+Which one of the following is the most appropriate definition of secularism in the Indian context?
+(a) Complete separation of religion and State
+(b) State has an official religion
+(c) Equal respect for all religions by the State
+(d) State control over religious institutions
+
+Ans: C
+Explanation: Indian secularism means equal respect and neutrality towards all religions.
+
+Question 5
+Which one of the following best describes the role of the Prime Minister of India?
+(a) Nominal executive authority
+(b) Real executive authority
+(c) Head of the Judiciary
+(d) Head of the State
+
+Ans: B
+Explanation: The Prime Minister is the real executive head in the parliamentary system.
+
+Question 6
+With reference to the Parliament of India, which one of the following statements is correct?
+(a) The President is not a part of Parliament
+(b) The Lok Sabha is more powerful than the Rajya Sabha in all matters
+(c) The President is an integral part of Parliament
+(d) The Rajya Sabha can be dissolved by the President
+
+Ans: C
+Explanation: Parliament consists of the President, Lok Sabha and Rajya Sabha.
+
+Question 7
+Which one of the following is NOT a feature of the Indian federal system?
+(a) Division of powers
+(b) Written Constitution
+(c) Dual citizenship
+(d) Independent judiciary
+
+Ans: C
+Explanation: India follows single citizenship.
+
+Question 8
+With reference to the Governor of a State, which one of the following statements is correct?
+(a) He is elected by the people of the State
+(b) He is appointed by the President of India
+(c) He holds office during good behaviour
+(d) He is responsible to the State Legislature
+
+Ans: B
+Explanation: The Governor is appointed by the President under Article 155.
+
+Question 9
+Which one of the following best explains the concept of Judicial Review?
+(a) Judiciary supervises the functioning of the executive
+(b) Judiciary reviews its own judgments
+(c) Judiciary examines the constitutionality of laws
+(d) Judiciary advises the legislature
+
+Ans: C
+Explanation: Judicial Review allows courts to test laws against the Constitution.
+
+Question 10
+Which one of the following correctly explains the principle of ‘Collective Responsibility’?
+(a) Each minister is individually responsible to the President
+(b) The Council of Ministers is responsible to the Lok Sabha
+(c) The Council of Ministers is responsible to the Judiciary
+(d) Ministers are responsible to the Rajya Sabha
+
+Ans: B
+Explanation: The Council of Ministers is collectively responsible to the Lok Sabha.
+`
+,
+"2013": `
+Question 1
+Which one of the following is the correct description of the ‘Directive Principles of State Policy’ contained in the Constitution of India?
+(a) They are enforceable by courts
+(b) They are not enforceable by any court
+(c) They override Fundamental Rights
+(d) They are enforceable by Parliament
+
+Ans: B
+Explanation: Directive Principles are non-justiciable but fundamental in the governance of the country.
+
+Question 2
+Which one of the following is an essential feature of a federal form of government?
+(a) Single Constitution
+(b) Division of powers between different levels of government
+(c) Parliamentary form of government
+(d) Supremacy of legislature
+
+Ans: B
+Explanation: Federalism requires a constitutional division of powers between different levels of government.
+
+Question 3
+With reference to the Constitution of India, which one of the following is correct?
+(a) Fundamental Rights can be amended only by Parliament
+(b) Fundamental Rights are absolute in nature
+(c) Fundamental Rights can be restricted
+(d) Fundamental Rights are superior to Directive Principles in all circumstances
+
+Ans: C
+Explanation: Fundamental Rights are subject to reasonable restrictions.
+
+Question 4
+Which one of the following correctly describes the concept of ‘Judicial Review’?
+(a) Judiciary reviews its own judgments
+(b) Judiciary supervises executive functioning
+(c) Judiciary examines the constitutionality of laws and executive actions
+(d) Judiciary advises the legislature
+
+Ans: C
+Explanation: Judicial Review ensures supremacy of the Constitution.
+
+Question 5
+Which one of the following statements best describes the role of the President of India?
+(a) He is the real executive head
+(b) He exercises discretionary powers independently
+(c) He is the nominal executive head
+(d) He is responsible to Parliament
+
+Ans: C
+Explanation: The President is the nominal head; real executive power lies with the Council of Ministers.
+
+Question 6
+Which one of the following Fundamental Rights is available to both citizens and foreigners?
+(a) Freedom of speech and expression
+(b) Equality before law
+(c) Freedom of profession
+(d) Right to vote
+
+Ans: B
+Explanation: Article 14 (Equality before law) is available to all persons.
+
+Question 7
+With reference to the Parliament of India, which one of the following statements is correct?
+(a) Rajya Sabha can be dissolved by the President
+(b) Lok Sabha is a permanent House
+(c) Rajya Sabha is a permanent House
+(d) Both Houses have equal powers in all matters
+
+Ans: C
+Explanation: Rajya Sabha is a permanent body; Lok Sabha is subject to dissolution.
+
+Question 8
+Which one of the following statements best explains the term ‘Secularism’ as adopted in India?
+(a) Complete separation of State and religion
+(b) State religion recognized by the Constitution
+(c) Equal respect and protection to all religions
+(d) State control over all religious institutions
+
+Ans: C
+Explanation: Indian secularism implies equal respect for all religions.
+
+Question 9
+Which one of the following is NOT a feature of parliamentary form of government?
+(a) Collective responsibility
+(b) Fusion of executive and legislature
+(c) Fixed tenure of executive
+(d) Leadership of Prime Minister
+
+Ans: C
+Explanation: Executive tenure depends on confidence of the legislature.
+
+Question 10
+Which one of the following best explains the principle of ‘Collective Responsibility’?
+(a) Ministers are individually responsible to the President
+(b) Council of Ministers is responsible to the Lok Sabha
+(c) Council of Ministers is responsible to the Rajya Sabha
+(d) Ministers are responsible to the Judiciary
+
+Ans: B
+Explanation: The Council of Ministers is collectively responsible to the Lok Sabha.
+`
+
     }
    
  
 };
 
 window.getRawData = () => rawContent;
+
 window.getAnswerKeys = () => {};
